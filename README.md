@@ -1,2 +1,31 @@
-# Financial-Analyst-Cash-flow-forecasting-model
-Financial analyst project focused on binding at 12 month cash flow forecasting and budgeting model including data setup,financial categories,assumptions,seasonality factors, loan repayment schedule,cash flow summary,budget vs. actual analysis,scenario and what if analysis, interactive dashboard, charts ,variance analysis and final report. 
+Financial Analyst – Cash Flow Forecasting & Budgeting Model
+
+A comprehensive financial modelling project focused on developing a structured Cash Flow Forecasting and Budgeting Model for financial planning, forecasting, and decision-making.
+
+Project Components
+
+Data Collection & Setup
+
+Financial Categories & Structure
+
+Assumptions & Key Drivers
+
+Seasonality Factor Analysis
+
+Loan Repayment Schedule
+
+12-Month Cash Flow Forecast
+
+Cash Flow Summary
+
+Budget vs. Actual Report
+
+Flexible Cash Flow Forecast Model
+
+Scenario & What-If Analysis Dashboard
+
+Financial Charts & Visualizations
+
+Final Financial Report
+
+This project demonstrates practical skills in financial modelling, cash flow forecasting, budgeting, variance analysis, scenario planning, sensitivity analysis, and dashboard development.
